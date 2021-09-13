@@ -1,8 +1,8 @@
 {
   "type": "app",
-  "title": "Data Approval App",
+  "title": "Data Approval",
   "coreApp": true,
   "name": "approval-app",
-  "version": "1.10.2",
+  "version": "1.14.0",
   "description": ""
 }
