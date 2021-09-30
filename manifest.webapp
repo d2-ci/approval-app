@@ -3,7 +3,7 @@
   "short_name": "approval-app",
   "name": "Data Approval",
   "description": "",
-  "version": "1.16.0",
+  "version": "1.16.1",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -15,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Thu Sep 30 2021 08:17:04 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Sep 30 2021 11:29:44 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
