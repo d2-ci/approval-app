@@ -1,6 +1,6 @@
 {
     "name": "approval-app",
-    "version": "100.0.18",
+    "version": "100.1.0",
     "description": "",
     "license": "BSD-3-Clause",
     "private": true,
@@ -43,6 +43,7 @@
     },
     "dependencies": {
         "@dhis2/app-runtime": "^3.13.1",
+        "@dhis2/multi-calendar-dates": "^2.0.0",
         "@dhis2/prop-types": "^1.6.4",
         "@dhis2/ui": "^10.1.11",
         "dompurify": "^3.2.4",
